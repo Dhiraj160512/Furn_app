@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464686597806",
+    "project_id": "sfapp-6d665",
+    "storage_bucket": "sfapp-6d665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464686597806:android:11919eb2035f9e03b9cf3f",
+        "android_client_info": {
+          "package_name": "com.siddhivinayak.sf_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8NSrD2Nl1sS0dDerEZnt1vkBeynXjg4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
